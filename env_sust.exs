@@ -1,9 +1,1 @@
-"
-defmodule Math do
-def sum(a, b) do
-a + b
-end
-end
-
-IO.puts Math.sum(1, 2)
-"
+IO.puts("actions to reduce its negative impact on the environment while still making a profit. A sustainable business considers the needs of the present without compromising the ability of future generations to meet their own needs.")
